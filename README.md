@@ -1,1 +1,1 @@
-# snipesec.live
+# [snipesec.live](https://snipesec.live)
