@@ -8,7 +8,7 @@ categories: ["gdb", "reverse-engineering"]
 Hey guys, how are you all doing. In this post i will guide you through the installation process of gef. Gef is an extension for GDB (Gnu Debugger), gef enhances
 the existing features of gdb to help with reverse engineering and rapid exploitation of linux binaries. So lets get started with the installation.
 
-The whole installation guide is available on (hugsy.github.io/gef/)[https://hugsy.github.io/gef/]
+The whole installation guide is available on [hugsy.github.io/gef/](https://hugsy.github.io/gef/)
 
 # Install GDB & Other Dependencies
 
