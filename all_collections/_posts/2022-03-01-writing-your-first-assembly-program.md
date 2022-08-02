@@ -117,4 +117,4 @@ Now execute the file and you'll get the output "hello, world!".
 hello, world!
 ```
 
-Well this is it guys, hope you liked this blog.
+EOF
