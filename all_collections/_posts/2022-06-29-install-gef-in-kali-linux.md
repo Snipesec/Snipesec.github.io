@@ -26,3 +26,5 @@ Now according to the official documentation you only have to run one command and
 
 Wait till the installation is done and run gdb to check if gef is working properly.
 
+
+EOF
