@@ -117,12 +117,4 @@ Now execute the file and you'll get the output "hello, world!".
 hello, world!
 ```
 
-Well this is it guys, hope you liked this blog. If you did share it and drop a comment below.
-
-[Discord](https://discord.gg/nXDRcFe)
-
-[Twitter](https://twitter.com/0xSN1PE)
-
-[Linkedin](https://www.linkedin.com/in/sparsh-anand-9842421b2)
-
-[Github](https://github.com/vxsparsh)
+Well this is it guys, hope you liked this blog.
